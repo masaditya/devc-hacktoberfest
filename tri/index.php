@@ -11,7 +11,7 @@
 <body>
 
 <div class="container">
-  <h2>Vertical (basic) form</h2>
+  <h3>Vertical (basic) form</h3>
   <form action="/action_page.php">
     <div class="form-group">
       <label for="email">Email:</label>
